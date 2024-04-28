@@ -1,4 +1,4 @@
 ﻿using CalcularSalario.Class;
 Calcular calcular = new Calcular();
-//calcular.CalcularSalario();
-calcular.CalcularProducto();
+calcular.CalcularImpuesto();
+//calcular.CalcularProducto();
